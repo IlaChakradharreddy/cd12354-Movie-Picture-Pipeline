@@ -414,3 +414,9 @@ kustomize build | kubectl apply -f -
 screenshots
 
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/eb667db4-72aa-40fe-b78e-f79e24e38c23" />
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/8d2e00de-f50a-4b71-887a-a16455cc79ae" />
+
+working link:
+
+http://ae7edd6d990e54da58ec5d37efbd0663-870412528.us-east-1.elb.amazonaws.com/
