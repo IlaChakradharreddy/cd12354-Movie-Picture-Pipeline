@@ -97,6 +97,7 @@ jobs:
         run: |
           test -n "$ECR_REPOSITORY" || { echo "Set ECR_FRONTEND_REPOSITORY in GitHub Variables"; exit 1; }
           test -n "$MOVIE_API_URL" || { echo "Set REACT_APP_MOVIE_API_URL in GitHub Variables"; exit 1; }
+          echo "Frontend API URL: $MOVIE_API_URL"
           docker build \
             --build-arg REACT_APP_MOVIE_API_URL="$MOVIE_API_URL" \
             --tag "$ECR_REPOSITORY:$IMAGE_TAG" \
