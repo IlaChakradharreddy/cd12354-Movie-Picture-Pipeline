@@ -413,9 +413,14 @@ kustomize build | kubectl apply -f -
 
 screenshots
 
+<img width="1435" height="738" alt="Screenshot 2026-10-28 174525" src="https://github.com/user-attachments/assets/583358ae-fa85-44e0-94bb-55ae7cda3440" />
+
+
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/eb667db4-72aa-40fe-b78e-f79e24e38c23" />
 
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/8d2e00de-f50a-4b71-887a-a16455cc79ae" />
+<img width="1917" height="1046" alt="Screenshot 2026-10-28 222525" src="https://github.com/user-attachments/assets/0c24233f-bf91-4f1b-8a94-a9fa19c52e06" />
+
 
 working link:
 
