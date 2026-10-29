@@ -420,3 +420,30 @@ screenshots
 working link:
 
 http://ae7edd6d990e54da58ec5d37efbd0663-870412528.us-east-1.elb.amazonaws.com/
+
+## Deployment evidence
+
+- Frontend: [Open the deployed Movie List](http://ae7edd6d990e54da58ec5d37efbd0663-870412528.us-east-1.elb.amazonaws.com/)
+- Backend API: [Open the `/movies` endpoint](http://a0569cac037e34a8fa7f4280ff39a600-367026379.us-east-1.elb.amazonaws.com/movies)
+
+### Successful deployment workflow runs
+
+- Frontend CD, push to `main`: [View successful run](https://github.com/IlaChakradhrreddy/cd12354-Movie-Picture-Pipeline/actions/runs/40739713370)
+- Frontend CD, manual run: [View successful run](https://github.com/IlaChakradhrreddy/cd12354-Movie-Picture-Pipeline/actions/runs/40735642794)
+- Backend CD, push to `main`: [View successful run](https://github.com/IlaChakradhrreddy/cd12354-Movie-Picture-Pipeline/actions/runs/40730230746)
+- Backend CD, manual run: [View successful run](https://github.com/IlaChakradhrreddy/cd12354-Movie-Picture-Pipeline/actions/runs/40798401354/attempts/2)
+
+### Backend API response
+
+![Backend /movies endpoint returns the movie list](screenshots/backend-api.png)
+  
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/8f661395-7d09-49f3-9962-ae804ff1d1de" />
+<img width="975" height="540" alt="image" src="https://github.com/user-attachments/assets/b383caf1-97ac-4a69-a88f-5f25b1218412" />
+<img width="975" height="546" alt="image" src="https://github.com/user-attachments/assets/bd703350-861a-427d-9c62-4b66382546e7" />
+<img width="975" height="546" alt="image" src="https://github.com/user-attachments/assets/bb2ca447-99e8-45cd-8146-629319bb189c" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/3dc875b9-040f-4170-b8bc-7a1dc4c835c8" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/62d5230f-94b7-4d6f-9f11-26a77ff1e872" />
+
+
+
+
