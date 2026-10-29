@@ -428,8 +428,8 @@ http://ae7edd6d990e54da58ec5d37efbd0663-870412528.us-east-1.elb.amazonaws.com/
 
 
 ### Backend API response
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/62d5230f-94b7-4d6f-9f11-26a77ff1e872" />
 
-![Backend /movies endpoint returns the movie list](screenshots/backend-api.png)
 ### Successful deployment workflow runs
 <img width="1917" height="1070" alt="Screenshot 2026-10-29 075355" src="https://github.com/user-attachments/assets/32139249-4f6b-4bd2-a51a-a96ac9ee8e75" />
 <img width="1917" height="1078" alt="Screenshot 2026-10-29 075913" src="https://github.com/user-attachments/assets/6b12e11e-ef97-4b63-9099-5a5ac7062384" />
@@ -453,7 +453,7 @@ http://ae7edd6d990e54da58ec5d37efbd0663-870412528.us-east-1.elb.amazonaws.com/
 <img width="975" height="546" alt="image" src="https://github.com/user-attachments/assets/bd703350-861a-427d-9c62-4b66382546e7" />
 <img width="975" height="546" alt="image" src="https://github.com/user-attachments/assets/bb2ca447-99e8-45cd-8146-629319bb189c" />
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/3dc875b9-040f-4170-b8bc-7a1dc4c835c8" />
-<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/62d5230f-94b7-4d6f-9f11-26a77ff1e872" />
+
 
 
 
