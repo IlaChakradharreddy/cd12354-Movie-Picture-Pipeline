@@ -435,12 +435,15 @@ http://ae7edd6d990e54da58ec5d37efbd0663-870412528.us-east-1.elb.amazonaws.com/
 <img width="1917" height="1078" alt="Screenshot 2026-10-29 075913" src="https://github.com/user-attachments/assets/6b12e11e-ef97-4b63-9099-5a5ac7062384" />
 <img width="1917" height="1032" alt="Screenshot 2026-10-29 080012" src="https://github.com/user-attachments/assets/d3c41c14-ae1a-42eb-881d-5779ff39941e" />
 <img width="1917" height="1030" alt="Screenshot 2026-10-29 080252" src="https://github.com/user-attachments/assets/b5209753-22e1-45fa-b921-b3cb4d873637" />
+links for Frontend CD and Backend CD run pages:
+backend : https://github.com/IlaChakradharreddy/cd12354-Movie-Picture-Pipeline/actions/runs/40810595156
+frontend : https://github.com/IlaChakradharreddy/cd12354-Movie-Picture-Pipeline/actions/runs/40810594928
 
 ### CI/CD Failure Gate Verification
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/b5b0cae0-7d1e-432c-8319-10da3f34f872" />
 <img width="1917" height="1075" alt="image" src="https://github.com/user-attachments/assets/dc6317aa-f125-4f0e-a478-c58fac1a4824" />
 
-### restoring the successful  CD Runs After Workflow Fix
+### Final Successful CD Runs After Workflow Fix
 
 <img width="1917" height="1071" alt="image" src="https://github.com/user-attachments/assets/3b6b7f28-0c16-4e9d-9556-b04c401be4c4" />
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/ffcef4e2-fcb7-4172-82ac-ecac8ca31a21" />
