@@ -440,6 +440,12 @@ http://ae7edd6d990e54da58ec5d37efbd0663-870412528.us-east-1.elb.amazonaws.com/
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/b5b0cae0-7d1e-432c-8319-10da3f34f872" />
 <img width="1917" height="1075" alt="image" src="https://github.com/user-attachments/assets/dc6317aa-f125-4f0e-a478-c58fac1a4824" />
 
+### restoring the successful  CD Runs After Workflow Fix
+
+<img width="1917" height="1071" alt="image" src="https://github.com/user-attachments/assets/3b6b7f28-0c16-4e9d-9556-b04c401be4c4" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/ffcef4e2-fcb7-4172-82ac-ecac8ca31a21" />
+<img width="1917" height="1045" alt="image" src="https://github.com/user-attachments/assets/82b08b88-bbe0-41dc-90bc-3dc8bf38bc4e" />
+
 
 
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/8f661395-7d09-49f3-9962-ae804ff1d1de" />
