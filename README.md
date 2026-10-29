@@ -426,20 +426,19 @@ http://ae7edd6d990e54da58ec5d37efbd0663-870412528.us-east-1.elb.amazonaws.com/
 - Frontend: [Open the deployed Movie List](http://ae7edd6d990e54da58ec5d37efbd0663-870412528.us-east-1.elb.amazonaws.com/)
 - Backend API: [Open the `/movies` endpoint](http://a0569cac037e34a8fa7f4280ff39a600-367026379.us-east-1.elb.amazonaws.com/movies)
 
-### Successful deployment workflow runs
-
-- Frontend CD, push to `main`: [View successful run](https://github.com/IlaChakradhrreddy/cd12354-Movie-Picture-Pipeline/actions/runs/40739713370)
-- Frontend CD, manual run: [View successful run](https://github.com/IlaChakradhrreddy/cd12354-Movie-Picture-Pipeline/actions/runs/40735642794)
-- Backend CD, push to `main`: [View successful run](https://github.com/IlaChakradhrreddy/cd12354-Movie-Picture-Pipeline/actions/runs/40730230746)
-- Backend CD, manual run: [View successful run](https://github.com/IlaChakradhrreddy/cd12354-Movie-Picture-Pipeline/actions/runs/40798401354/attempts/2)
 
 ### Backend API response
 
 ![Backend /movies endpoint returns the movie list](screenshots/backend-api.png)
+### Successful deployment workflow runs
 <img width="1917" height="1070" alt="Screenshot 2026-10-29 075355" src="https://github.com/user-attachments/assets/32139249-4f6b-4bd2-a51a-a96ac9ee8e75" />
 <img width="1917" height="1078" alt="Screenshot 2026-10-29 075913" src="https://github.com/user-attachments/assets/6b12e11e-ef97-4b63-9099-5a5ac7062384" />
 <img width="1917" height="1032" alt="Screenshot 2026-10-29 080012" src="https://github.com/user-attachments/assets/d3c41c14-ae1a-42eb-881d-5779ff39941e" />
 <img width="1917" height="1030" alt="Screenshot 2026-10-29 080252" src="https://github.com/user-attachments/assets/b5209753-22e1-45fa-b921-b3cb4d873637" />
+
+### CI/CD Failure Gate Verification
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/b5b0cae0-7d1e-432c-8319-10da3f34f872" />
+<img width="1917" height="1075" alt="image" src="https://github.com/user-attachments/assets/dc6317aa-f125-4f0e-a478-c58fac1a4824" />
 
 
 
