@@ -436,7 +436,13 @@ http://ae7edd6d990e54da58ec5d37efbd0663-870412528.us-east-1.elb.amazonaws.com/
 ### Backend API response
 
 ![Backend /movies endpoint returns the movie list](screenshots/backend-api.png)
-  
+<img width="1917" height="1070" alt="Screenshot 2026-10-29 075355" src="https://github.com/user-attachments/assets/32139249-4f6b-4bd2-a51a-a96ac9ee8e75" />
+<img width="1917" height="1078" alt="Screenshot 2026-10-29 075913" src="https://github.com/user-attachments/assets/6b12e11e-ef97-4b63-9099-5a5ac7062384" />
+<img width="1917" height="1032" alt="Screenshot 2026-10-29 080012" src="https://github.com/user-attachments/assets/d3c41c14-ae1a-42eb-881d-5779ff39941e" />
+<img width="1917" height="1030" alt="Screenshot 2026-10-29 080252" src="https://github.com/user-attachments/assets/b5209753-22e1-45fa-b921-b3cb4d873637" />
+
+
+
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/8f661395-7d09-49f3-9962-ae804ff1d1de" />
 <img width="975" height="540" alt="image" src="https://github.com/user-attachments/assets/b383caf1-97ac-4a69-a88f-5f25b1218412" />
 <img width="975" height="546" alt="image" src="https://github.com/user-attachments/assets/bd703350-861a-427d-9c62-4b66382546e7" />
