@@ -47,6 +47,8 @@ jobs:
   test:
     name: Backend Tests
     runs-on: ubuntu-latest
+    env:
+      FAIL_TEST: "true"
 
     defaults:
       run:
@@ -73,6 +75,12 @@ jobs:
 
       - name: Run tests
         run: pipenv run test
+
+      - name: Temporary failure check
+        if: env.FAIL_TEST == 'true'
+        run: |
+          echo "Intentional failure for the FAIL_TEST check"
+          exit 1
 
   build:
     name: Build and Push Backend Image
